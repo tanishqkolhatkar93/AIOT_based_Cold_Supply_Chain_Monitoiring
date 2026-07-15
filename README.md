@@ -70,10 +70,10 @@ https://github.com/tanishqkolhatkar93/AIOT_based_Cold_Supply_Chain_Monitoiring/b
 ![Think Speak](https://github.com/tanishqkolhatkar93/AIOT_based_Cold_Supply_Chain_Monitoiring/blob/main/Screenshot%202025-12-11%20171108.png)   
 
 ### AI Prediction
-`images/prediction.png`
 
-### Alert System
-`images/alerts.png`
+![AI_Prediction](https://github.com/tanishqkolhatkar93/AIOT_based_Cold_Supply_Chain_Monitoiring/blob/main/Screenshot%202025-12-12%20142827.png)   
+
+
 
 ## 🎯 Applications
 
