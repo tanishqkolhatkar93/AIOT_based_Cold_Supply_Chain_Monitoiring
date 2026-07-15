@@ -20,7 +20,7 @@ Sensors (DHT/IoT)
  ESP32 / Microcontroller
       │
       ▼
- Cloud / Backend
+ Cloud / Backend / Thinkspeak 
       │
       ▼
  AI / ML Prediction Engine
@@ -33,21 +33,13 @@ Sensors (DHT/IoT)
 
 - Python
 - Flask
-- HTML, CSS, JavaScript
+- HTML, CSS
+- Flutter
 - Pandas, NumPy, Scikit-learn
 - IoT Sensors (ESP32/DHT)
 - SQLite/Firebase (as applicable)
+- Thinkspeak (Stroing sensor data in cloud and reteriving it to dashboard)
 
-## 📂 Project Structure
-
-```text
-├── app.py
-├── templates/
-├── static/
-├── dataset/
-├── model/
-├── requirements.txt
-└── README.md
 ```
 
 ## ⚙️ Installation
@@ -85,7 +77,6 @@ python app.py
 
 ## 🔮 Future Scope
 
-- Mobile application
 - Edge AI deployment
 - Blockchain traceability
 - Predictive maintenance
