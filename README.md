@@ -60,7 +60,7 @@ python app.py
 
 ![Think Speak](https://github.com/tanishqkolhatkar93/AIOT_based_Cold_Supply_Chain_Monitoiring/blob/main/Screenshot%202025-12-11%20171108.png)  
 
-### Dashboard
+### Flutter Dashboard
 `images/dashboard.png`
 ![Dashboard](https://github.com/tanishqkolhatkar93/AIOT_based_Cold_Supply_Chain_Monitoiring/blob/main/Screenshot%202025-12-12%20142745.png)  
 
