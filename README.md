@@ -61,6 +61,9 @@ python app.py
 ### Monitoring Results
 `images/monitoring.png`
 
+### Think Speak Dashboard 
+'https://github.com/tanishqkolhatkar93/AIOT_based_Cold_Supply_Chain_Monitoiring/blob/main/Screenshot%202025-12-11%20171108.png'
+
 ### AI Prediction
 `images/prediction.png`
 
